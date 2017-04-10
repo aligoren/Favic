@@ -1,5 +1,5 @@
 new Favic({
-    old: 'favicon.ico',
-    new: 'favicon2.ico',
+    old: 'https://aligoren.com/Favic/favicon.ico',
+    new: 'https://aligoren.com/Favic/favicon2.ico',
     timeout: 0,
 })
